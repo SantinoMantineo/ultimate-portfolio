@@ -1,0 +1,21 @@
+.main{
+    position: relative;
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    overflow: hidden;
+}
+
+.image{
+    position: absolute;
+    width: 100dvw;
+    height: 100dvh;
+    z-index: -1;
+}
+
+.mainTitle{
+    font-size: x-large;
+    justify-self: center;
+    align-self: center;
+    margin: auto;
+}
