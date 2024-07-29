@@ -1,7 +1,7 @@
 import React, { Suspense, lazy } from 'react';
 import Spinner from '@/utils/Spinner/spinner';
 
-const LandingComponent = lazy(() => import('@/components/index'));
+const LandingComponent = lazy(() => import('@/components/Landing/index'));
 
 export default function Home() {
   return (

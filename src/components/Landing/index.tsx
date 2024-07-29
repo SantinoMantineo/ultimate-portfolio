@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function HOme() {
+export default function Landing() {
   return (
     <h1>HAAA</h1>
   );
